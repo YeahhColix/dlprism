@@ -62,9 +62,10 @@
                     <a class="nav__icon" href="https://discord.gg/BX9rssTh79">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
                     </a>
-                    <a class="nav__icon" href="/">
-                        <img src="/assets/form.svg" alt="Google Forms Logo" />
-                    </a>
+                    <button onclick="redirectToForm()">
+                        <input type="image" src="/assets/form.svg" alt="Google Forms Logo" />
+                        Submit Form
+                    </button>
                 </div>
             </nav>
         </header>
@@ -73,4 +74,9 @@
         <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "441c380301ce486db5184315eb330170"}'></script>
         <!-- End Cloudflare Web Analytics -->
     </body>
+    <script>
+        function redirectToForm() {
+            window.location.href = "https://forms.office.com/r/BuCkht3buy";
+        }
+    </script>
 </html>
