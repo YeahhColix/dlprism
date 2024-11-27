@@ -11,7 +11,7 @@ const roleIconMap = {
     coowner: "crown",
     admin: "user-gear",
     helper: "user-shield",
-    dev: "code",
+    dev: "code-dark",
     trial: "user-lock",
     patreon: "patreon",
 };
