@@ -7,13 +7,13 @@ import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: "owner",
-    coowner: "crown",
-    admin: "user-gear",
-    helper: "user-shield",
+    owner: "owner-dark",
+    coowner: "crown-dark",
+    admin: "user-gear-dark",
+    helper: "user-shield-dark",
     dev: "code-dark",
-    trial: "user-lock",
-    patreon: "patreon",
+    trial: "user-lock-dark",
+    patreon: "patreon-dark",
 };
 
 export default {
