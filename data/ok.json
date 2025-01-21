@@ -4,6 +4,12 @@
 	"author": "Lucas531",
 	"creators": [],
 	"verifier": "Lucas531",
+	"verification": "{
+	"id": 36,
+	"name": "EXTNES",
+	"author": "SLvenus",
+	"creators": [],
+	"verifier": "GDplayerfr",
 	"verification": "https://www.youtube.com/watch?v=Fn6CnbNBBjk",
 	"percentToQualify": 40,
 	"password": "Free Copy",
@@ -21,4 +27,21 @@
 			"hz": 360
 		}
 	]
-}
+    }",
+	"percentToQualify": 40,
+	"password": "Free Copy",
+	"records": [
+		{
+			"user": "Placeholder",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Placeholder",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+    }
