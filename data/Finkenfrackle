@@ -1,0 +1,24 @@
+{
+	"id": 138,
+	"name": "Finkenfrackle",
+	"author": "Tranquanto",
+	"creators": [],
+	"verifier": "Tranquanto",
+	"verification": "https://www.youtube.com/watch?v=_BfeKO9AuPY",
+	"percentToQualify": 40,
+	"password": "Free Copy",
+	"records": [
+		{
+			"user": "Placeholder",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Placeholder",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+    }
